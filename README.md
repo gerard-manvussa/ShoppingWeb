@@ -1,6 +1,6 @@
 # ShoppingWeb
 Une application exemple en Java utilisant les **technologies vues durant la formation**. Elle est découpée en *plusieurs étapes* :  
-1 - Définition du *cahier des charges*, placé dans le dossier /doc.  
+1 - Définition du *cahier des charges*, placé dans le dossier /documents.  
 2 - Construction d'une *application locale*, avec les *classes métier* définies en UML, et une *couche de présentation* simpliste / simplifiée.  
 3 - Ajout d'une *couche de persistance*, pour quelques classes métier, en utilisant *JDBC* et *MySQL*.  
 4 - Fabrication d'une *application Web*, en remplaçant la couche de présentation, mais en *conservant la même couche métier*. On utilisera les technologies *Servlet / JSP*.  
