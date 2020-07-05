@@ -1,0 +1,4 @@
+Dans cette première étape on traduit un diagramme de classes UML en code, 
+en y créant les classes avec leurs attributs, et seulement cela.
+Comme la modélisation UML a porté sur la couche métier, on crée donc un package 
+'etape1.metier' pour y placer ces classes. 

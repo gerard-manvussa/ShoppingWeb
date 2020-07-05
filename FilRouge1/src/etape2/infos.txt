@@ -1,0 +1,16 @@
+Dans cette seconde étape, on ajoute aux classes les attributs nécessaires pour
+implémenter les associations et aggrégations/compositions apparaissant dans le
+diagramme de classes.
+On doit identifier :
+
+- Si les associations sont bidirectionnelles (un attribut nécessaire de chaque
+coté) ou non (un seul attribut nécessaire, du coté navigable).
+
+- La multiplicité des associations : unique (une seule référence suffit) ou 
+  multiple (une collection ou un tableau est nécessaire).
+  
+- Dans le cas de l'utilisation d'une collection, laquelle faut il choisir : 
+	- une liste (accès séquentiel), comme ArrayList ou Vector
+	- une map (accès par clé), comme Hashmap ou ConcurrentHashMap
+	- un set (pas de doublons), comme HashSet.
+  

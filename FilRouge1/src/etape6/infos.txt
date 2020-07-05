@@ -1,0 +1,12 @@
+Dans la version précédente, la couche de présentation (le main(), pour nous) devait
+travailler directement avec les classes métier, les instancier et les connecter,
+pour obtnir les résultats recherchés.
+
+On va dans cette version fabriquer une mini couche de services, 
+qui va reprendre ce travail à sa charge, et donc simplifier la couche de 
+présentation. Elle sera très simple  et comportera une classe unique servant 
+de 'facade' aux diverses classes métier, pour dégager la présentation de leur 
+utilisation directe et d'en être isolée.
+ 
+Cette version va former le point de départ de la version Web, remplaçant la couche
+de présentation console par une application Web.

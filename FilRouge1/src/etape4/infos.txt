@@ -1,0 +1,9 @@
+Dans cette étape, les classes commencent à être utilisables mais il manque
+des traitements métier important pour (par exemple) :
+- ajouter les articles dans le panier
+- créer une commande depuis le panier
+Etc.
+On fera l'inventaire de ces traitements et on déterminera dans quelle classe 
+il faut les placer.
+On ajoutera aussi les contraintes techniques utiles (comme l'organisation de classe
+nécessaire pour que le catalogue soit un singleton).

@@ -1,0 +1,18 @@
+Les corrigés décrits dans le support sont les projets
+FilRouge1, FilRouge2, FilRouge3, etc.
+
+Les autres sont des "variations" possibles et/ou des simplifications.
+
+Ainsi les projets FilRouge3Sessiona, FilRouge3Sessionb et 
+FilRouge3Sessionxxx utilisent la session http pour stocker la position
+courante de parcourt du catalogue, ce qui est un peu plus simple que de 
+la faire circuler dans l'URL, entre le client et le serveur, comme font 
+les projets "standard". 
+
+De plus ces projets sont incomplets et ne contiennent pas le passage
+de commandes ni de consultation des commandes passées. Pas de login non plus.
+
+Mais compte tenu du temps imparti aux TPs, ils peuvent être vus comme suffisants.
+
+
+

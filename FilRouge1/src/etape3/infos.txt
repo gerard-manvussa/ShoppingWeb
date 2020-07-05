@@ -1,0 +1,8 @@
+Dans la troisième étape, on ajoute, en se faisant aider par Eclipse :
+
+- Le(s) constructeur(s) en se demandant quels seront les paramètres à passer
+  lors de la création des objets.
+- Les accesseurs. Seront ils tous en lecture/écriture ?
+- La méthode toString(). On pourra, dans certains cas, garder la version générée 
+  par Eclipse, et dans d'autres, il faudra la modifier, voir l'écrire complètement
+  différemment.

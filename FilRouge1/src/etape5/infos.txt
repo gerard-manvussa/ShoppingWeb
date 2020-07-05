@@ -1,0 +1,8 @@
+Les classes sont désormais 'viables' et on doit pouvoir commencer à s'en servir.
+Pour cela, on simule une utilisation basique par une couche de présentation en
+mode console.
+On ajoute donc un main() qui tente de parcourir le catalogue, en passant d'un
+produit à l'autre et qui imprime chacun des produits.
+On tente également de mettre des produits dans le panier, puis on affiche le 
+panier afin de vérifier qu'ils s'y trouvent.
+Enfin on crée un client fictif ainsi qu'une commande à partir du panier.
